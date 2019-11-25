@@ -1,0 +1,2 @@
+include ':app', ':backend', ':javalib', ':androidlib'
+rootProject.name='BuildItBigger'

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JokeApp Paid Version</string>
+    <string name="greeting">Welcome to Paid Version</string>
+    <string name="tellJoke">Tell A Joke</string>
+</resources>
+
